@@ -1,5 +1,8 @@
 _repo: Young-Hunters-of-the-Lake--or-Out-with-Rod-and-Gun_12936
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12936#Young-Hunters-of-the-Lake--or-Out-with-Rod-and-Gun
 gutenberg_issued: '2004-07-19'
 gutenberg_type: Text
 identifiers:
